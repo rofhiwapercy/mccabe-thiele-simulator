@@ -118,7 +118,7 @@ The current model assumes:
 * Steady-state operation
 * Idealized McCabe-Thiele assumptions
 
-The simulator is intended for educational and engineering-project purposes not detailed industrial column design.
+The simulator is intended for educational and engineering project purposes not detailed industrial column design.
 
 ## Technology
 
