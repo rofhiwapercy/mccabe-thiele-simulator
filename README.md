@@ -34,7 +34,7 @@ This project was developed by Rofhiwa Percy Netshilongwe, a Chemical Engineering
 The equilibrium relationship is calculated using:
 
 $$
-y^ = \frac{\alpha x}{1 + (\alpha - 1)x}
+y^  = \frac{\alpha x}{1 + (\alpha - 1)x}
 $$
 
 where:
