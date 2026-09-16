@@ -123,7 +123,6 @@ def calculate_operating_lines(alpha, xD,xB, zF,reflux_ratio,q):
         "y_intersection": y_intersection,
     }
 
-
 def calculate_rectifying_line_parameters(xD,reflux_ratio):
     if reflux_ratio <= 0:
         raise ValueError("Reflux ratio must be greater than 0")
