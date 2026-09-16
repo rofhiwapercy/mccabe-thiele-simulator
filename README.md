@@ -130,8 +130,9 @@ The simulator is intended for educational and engineering-project purposes not d
 
 ## Author
 
-Made by Rofhiwa Percy Netshilongwe
-View my other [Projects](https://rofhiwapercy.github.io/projects)
+Made by Rofhiwa Percy Netshilongwe.
+
+View my other [Projects](https://rofhiwapercy.github.io/projects.html)
 
 ## References
 
