@@ -44,6 +44,7 @@ def test_equilibrium_curve():
 
 
 def test_invalid_reflux_ratio():
+    try:
         run_simulation(
             alpha=2.5,
             xD=0.95,
@@ -52,12 +53,9 @@ def test_invalid_reflux_ratio():
             reflux_ratio=0.01,
             q=1.0,
         )
-
     except ValueError:
         return
 
     raise AssertionError(
         "Expected ValueError for reflux ratio below Rmin."
     )
-
-print("All simulation tests passed.")
